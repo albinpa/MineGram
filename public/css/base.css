@@ -1,0 +1,65 @@
+.brand-name {
+    
+    padding-left: 97px;
+    font-size: 2rem;
+    text-decoration: none;
+    
+    font-family: serif;
+    color: red;
+  }
+.brand-title {
+    
+    padding-left: 200px;
+    font-size: 2rem;
+    text-decoration: none;
+    
+    font-family: serif;
+    color: red;
+  }
+
+.profile-img-small{
+    width:70px;
+    border-style: solid;
+    border-color: red;
+    margin-left: 14px;
+
+}
+.profile-img-smaller{
+    width:50px;
+    border-style: solid;
+    border-color: red;
+}
+.profile-link{
+  color:rgb(145, 145, 145);
+  text-decoration: none;
+  
+}
+.profile-link:hover {
+  color: rgb(0, 0, 0);
+}
+
+.profile-name-small{
+   font-style: normal;
+   font-size: larger;
+   font-weight: bold;
+   margin-left: 25px;
+   padding-top: 18px;
+}
+
+.profile-name-smaller{
+  font-style: normal;
+  letter-spacing: .1rem;
+  font-size: larger;
+  font-weight: bolder;
+  
+}
+.profile-title{
+  color:rgb(104, 104, 104);
+  font-size: large;
+  font-weight: 800;
+  letter-spacing: .1rem;
+
+}
+.profile-div{
+  padding-top: 18px;
+}
